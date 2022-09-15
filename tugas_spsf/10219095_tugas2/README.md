@@ -24,5 +24,5 @@ d. Tentukan solusi numeriknya!
 e. Bandingkan hasil kedua pendekatan teori dan numerik!
 ## Answer
 <p align="justify">
-Kedua pendekatan baik secara teori yang ada pada [3xy53u8ng](https://onecompiler.com/python/3xy53u8ng) dan secara numerik yang ada pada [3xy53u8ng](https://onecompiler.com/python/3xy53u8ng), maka diperoleh bahwa berdasarkan hasil sumalasi yang dilakukan, visualisasi gerak partikel keduanya sama.
+Kedua pendekatan baik secara teori dan secara numerik memberikan hasil visualisasi gerak partikel yang sama dari simulasi yang dilakukan.
 </p>
