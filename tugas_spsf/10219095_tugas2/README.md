@@ -1,4 +1,4 @@
-## Aldian Nur Azmar - 10219098 - PR 2 Simulasi dan Pemodelan Sistem Fisis
+## 10219095 - Nungky Andriani Dinar Widyastuti - PR 2 Simulasi dan Pemodelan Sistem Fisis
 ## Soal PR 2 SPSF
 ![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Soal%20PR%202%20SPSF.jpg)
 
