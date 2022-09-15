@@ -1,32 +1,28 @@
 ## 10219095 - Nungky Andriani Dinar Widyastuti - PR 2 Simulasi dan Pemodelan Sistem Fisis
 ## Soal PR 2 SPSF
-![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Soal%20PR%202%20SPSF.jpg)
+![alt text](https://github.com/nungkyadw/python-jupyter-notebook/blob/main/tugas_spsf/10219095_tugas2/soal.jpg)
 
-a. Tuliskan hukum newton problem di atas!
+a. Tuliskan hukum newtonnya!
 ## Answer
-![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Jawaban%20soal%20(a).jpg)
+![alt text](https://github.com/nungkyadw/python-jupyter-notebook/blob/main/tugas_spsf/10219095_tugas2/Jawaban_a.jpg)
 
 b. Tuliskan persamaan diferensial terkopel antara kecepatan pada kedua arah!
 ## Answer
-![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
+![alt text](https://github.com/nungkyadw/python-jupyter-notebook/blob/main/tugas_spsf/10219095_tugas2/Jawaban_b.jpg)
 
-c. Selesaikan kedua persamaan diferensial sehingga dapat diperoleh V<sub>x</sub>(t), V<sub>y</sub>(t), x(t), dan y(t) menggunakan perhitungan berdasarkan teori!
+c. Selesaikan kedua persamaan diferensial sehingga dapat diperoleh V<sub>x</sub>(t), V<sub>y</sub>(t), x(t), dan y(t). Lakukan secara teori!
 ## Answer
-![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
-
-Berikut merupakan lampiran code yang menjelaskan visualisasi gerak rotasi partikel pada medan magnet berdasarkan teori,
-![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Lampiran%20code%20soal%20(c).jpg)
+![alt text](https://github.com/nungkyadw/python-jupyter-notebook/blob/main/tugas_spsf/10219095_tugas2/Jawaban_c.jpg)
+![alt text](https://github.com/nungkyadw/python-jupyter-notebook/blob/main/tugas_spsf/10219095_tugas2/Pendekatan_teori_1.jpg)
 
 d. Tentukan solusi numeriknya!
 ## Answer
-![alt text](https://github.com/AldianNurAzmar/fi3201-01-2021-2/blob/main/assignments/02/10219098/computational%20physics_assignment%2002.png)
+![alt text](https://github.com/nungkyadw/python-jupyter-notebook/blob/main/tugas_spsf/10219095_tugas2/Jawaban_d.jpg)
+![alt text](https://github.com/nungkyadw/python-jupyter-notebook/blob/main/tugas_spsf/10219095_tugas2/Pendekatan_numerik_1.jpg)
+![alt text](https://github.com/nungkyadw/python-jupyter-notebook/blob/main/tugas_spsf/10219095_tugas2/Pendekatan_numerik_2.jpg)
 
-Berikut merupakan lampiran code yang menjelaskan visualisasi gerak rotasi partikel pada medan magnet berdasarkan metode Runge-Kutta,
-![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Lampiran%20code%20soal%20(d)%20bagian%201.jpg)
-![alt text](https://github.com/AldianNurAzmar/python-jupyter-notebook/blob/main/tugas_spsf/10219098_tugas2/Lampiran%20code%20soal%20(d)%20bagian%202.jpg)
-
-e. Bandingkan hasil yang diperoleh!
+e. Bandingkan hasil kedua pendekatan teori dan numerik!
 ## Answer
 <p align="justify">
-Berdasarkan hasil simulasi yang diperoleh, dapat dilihat bahwa visualisasi gerak partikel pada medan magnet yang diperoleh berdasarkan teori dengan gerak partikel pada medan magnet yang diperoleh berdasarkan numerik dengan metode Runge-Kutta tidak menghasilkan suatu perbedaan.
+Kedua pendekatan baik secara teori yang ada pada [3xy53u8ng](https://onecompiler.com/python/3xy53u8ng) dan secara numerik yang ada pada [3xy53u8ng](https://onecompiler.com/python/3xy53u8ng), maka diperoleh bahwa berdasarkan hasil sumalasi yang dilakukan, visualisasi gerak partikel keduanya sama.
 </p>
