@@ -12,4 +12,4 @@ PyYAML==3.13
 regex==2022.9.11
 six==1.16.0
 SQLAlchemy==1.2.19
-tqdm==4.64.1
+tqdm==4.66.3
